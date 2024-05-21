@@ -1,4 +1,4 @@
-// Activities/BreathingActivity.cs
+
 using System;
 
 namespace MindfulnessProgram.Activities

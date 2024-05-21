@@ -1,4 +1,4 @@
-// Program.cs
+
 using System;
 using MindfulnessProgram.Activities;
 

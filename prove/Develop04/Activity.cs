@@ -1,4 +1,4 @@
-// Activities/Activity.cs
+
 using System;
 using System.Threading;
 
